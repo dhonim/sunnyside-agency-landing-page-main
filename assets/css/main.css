@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.barlow-semibold {
+    font-family: "Barlow", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  .Fraunces-bold {
+    font-family: "Fraunces", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .Fraunces-black {
+    font-family: "Fraunces", serif;
+    font-weight: 900;
+    font-style: normal;
+  }
